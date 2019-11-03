@@ -3,17 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://HidemanX.github.io/categories/</loc>
+    <lastmod>2019-11-04T00:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://HidemanX.github.io/hey-im-here/</loc>
+    <lastmod>2019-11-04T00:44:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/</loc>
+    <lastmod>2019-11-04T00:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://HidemanX.github.io/tags/new/</loc>
+    <lastmod>2019-11-04T00:44:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/post/</loc>
+    <lastmod>2019-11-04T00:44:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/tags/</loc>
+    <lastmod>2019-11-04T00:44:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/categories/tech/</loc>
+    <lastmod>2019-11-04T00:44:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/search/placeholder/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/top/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/top/books/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/search/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HidemanX.github.io/top/</loc>
     <priority>0</priority>
   </url>
   
